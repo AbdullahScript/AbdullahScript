@@ -12,4 +12,4 @@ I'm a computer engineer who is passionate about coding and making tweaks. Some t
 - [LinkedIn](https://www.linkedin.com/in/abdullah-otoum-0a22121b5/)
 
 ## Visitor Count
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/abdullahdiamond/abdullahdiamond)
+![Visitor Count](https://profile-counter.glitch.me/{AbdullahScript}/count.svg)
